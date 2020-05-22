@@ -1,3 +1,3 @@
 # ThirdTask
-Число 197 называется circular prime, потому циклический сдвиг числа дает также простое число: 197, 971 и 719.
-Есть 13 таких чисел в диапазоне до 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79 и 97. Сколько таких чисел до 1 миллиона?
+The number 197 is called circular prime, because the cyclic shift of the number also gives a prime number: 197, 971 and 719.
+There are 13 such numbers in the range up to 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79 and 97. How many of these numbers are up to 1 million?
